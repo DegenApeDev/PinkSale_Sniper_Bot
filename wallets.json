@@ -1,0 +1,10 @@
+{
+    "wallet1":{
+        "Address":"0x00YOURADDRESS HERE",
+        "PrivateKey":"UR SEED HERE SER ! DONT RUG PLZ"
+    },
+   "wallet2":{
+       "Address":"0x000SECONDWALLET",
+      "PrivateKey":"UR SEED HERE"
+   }
+}
